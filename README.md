@@ -71,7 +71,7 @@ but we got there by observing behavior, not by starting from math.
 
 ```bash
 # Clone the repo
-git clone https://github.com/<username>/mnist_vae.git
+git clone https://github.com/mahesh-godavarti/mnist_vae.git
 cd mnist_vae
 
 # Install dependencies
